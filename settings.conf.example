@@ -1,0 +1,5 @@
+[GENERAL]
+# Define your Spotify application credentials
+CLIENT_ID = <YOUR_CLIENT_ID>
+CLIENT_SECRET = <YOUR_CLIENT_SECRET>
+REDIRECT_URI = <YOUR_REDIRECT_URI>
